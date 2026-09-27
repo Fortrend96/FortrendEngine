@@ -1,0 +1,38 @@
+# Build
+/out/
+/build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+compile_commands.json
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# CLion
+.idea/
+
+# VS Code local settings
+.vscode/
+
+# Compiler output
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Testing
+Testing/
+
+# OS
+.DS_Store
+Thumbs.db
